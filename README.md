@@ -8,7 +8,7 @@ Disadvantages: Worst case is of O(n^2), which is relatively slow
 
 # MergeSort
 
-Implementation of Merrge Sort, requires extra storage allocation since it is not in place.
+Implementation of Merge Sort, requires extra storage allocation since it is not in place.
 
 Advantages: Guaranteed running time, at worst best and average: O(NlogN)
 Disadvantages: Additional memory costs
